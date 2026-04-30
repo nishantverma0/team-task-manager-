@@ -3,7 +3,7 @@
 A modern full-stack **Team Task Management Web Application** that helps teams collaborate, assign tasks, and track progress efficiently in real-time.
 
 🔗 **Live Demo:**
-👉 [https://team-task-manager-frontend-l9zud0cxy-nishantverma0s-projects.vercel.app/login](https://team-task-manager-frontend-l9zud0cxy-nishantverma0s-projects.vercel.app/login)
+👉 [https://team-task-manager-frontend-xi.vercel.app]
 
 ---
 
